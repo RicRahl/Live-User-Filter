@@ -1,0 +1,23 @@
+<li>
+          <img src="https://randomuser.me/api/portraits/women/33.jpg" alt="Sandra">
+          <div class="user-info">
+            <h4>Sandra Slay</h4>
+            <p>Lima, Ohio</p>
+          </div>
+        </li>
+
+        <li>
+          <img src="https://randomuser.me/api/portraits/men/30.jpg" alt="Kendrick">
+          <div class="user-info">
+            <h4>Kendrick Bamar</h4>
+            <p>sothwater, Chicago</p>
+          </div>
+        </li>
+
+        <li>
+          <img src="https://randomuser.me/api/portraits/women/30.jpg" alt="Maya">
+          <div class="user-info">
+            <h4>Maya Rales</h4>
+            <p>Abuja, Nigeria</p>
+          </div>
+        </li>
